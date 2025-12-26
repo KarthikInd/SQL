@@ -1,0 +1,1 @@
+This repository demonstrates a structured, step-by-step Exploratory Data Analysis (EDA) process performed entirely using SQL in SSMS. It focuses on understanding data quality, distributions, patterns, and business insights before modeling or dashboarding.
